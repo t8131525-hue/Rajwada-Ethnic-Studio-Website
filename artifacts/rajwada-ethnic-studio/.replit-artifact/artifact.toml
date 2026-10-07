@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Rajwada Ethnic Studio"
+description = "A complete, responsive showcase website for Rajwada Ethnic Studio in Alkapuri, Vadodara, helping customers discover ethnic clothing collections, read verified reviews, and call or get directions to the physical store."
+version = "1.0.0"
+id = "artifacts/rajwada-ethnic-studio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21471
+
+[services.development]
+run = "pnpm --filter @workspace/rajwada-ethnic-studio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/rajwada-ethnic-studio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/rajwada-ethnic-studio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21471"
+BASE_PATH = "/"

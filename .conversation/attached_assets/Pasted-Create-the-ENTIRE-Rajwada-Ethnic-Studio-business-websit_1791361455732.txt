@@ -1,0 +1,819 @@
+Create the **ENTIRE Rajwada Ethnic Studio business website in ONE SINGLE GENERATION**.
+
+This is a production-quality website for a real clothing and ethnic fashion store in Vadodara, Gujarat.
+
+## 🚨 CRITICAL SINGLE-GENERATION REQUIREMENT
+
+Do NOT ask me questions.
+
+Do NOT ask for confirmation.
+
+Do NOT create only a homepage.
+
+Do NOT create a prototype.
+
+Do NOT stop after creating the basic structure.
+
+Do NOT leave TODOs, placeholders, Lorem Ipsum, unfinished sections, broken buttons, or incomplete components.
+
+Build and finish the **COMPLETE WEBSITE in one generation**, including:
+
+* All pages/sections
+* Navigation
+* Hero section
+* Product/category showcase
+* About section
+* Store experience section
+* Reviews
+* Gallery
+* Social media
+* Location
+* Contact CTAs
+* Footer
+* Mobile navigation/action bar
+* Responsive layouts
+* Animations
+* SEO
+* Accessibility
+* Functional buttons and links
+
+The final website should be polished enough to immediately show to the business owner.
+
+---
+
+# 1. TECH STACK
+
+Build using:
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+* Lucide React icons
+
+Use a clean component-based architecture.
+
+Suggested components:
+
+* Navbar
+* Hero
+* TrustBar
+* About
+* Collections
+* FeaturedCategories
+* StoreExperience
+* Gallery
+* Reviews
+* SocialSection
+* VisitStore
+* Contact
+* Footer
+* MobileActionBar
+
+Keep the code clean, reusable and maintainable.
+
+---
+
+# 2. BUSINESS INFORMATION
+
+Use ONLY the following verified information.
+
+### Business Name
+
+Rajwada Ethnic Studio
+
+### Business Type
+
+Clothing store
+
+### Location
+
+Vadodara, Gujarat, India
+
+### Address
+
+31 Centre Point, bh Raymond Shop, SB - 30, RC Dutt Rd, opp. Bank Of, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007
+
+### Phone
+
+099748 88295
+
+### Opening Hours
+
+Open · Closes 8:30 PM
+
+### Google Reviews
+
+3.5k+ Google reviews
+
+IMPORTANT:
+
+The provided information says approximately 3.5k Google reviews.
+
+Do NOT invent a Google star rating.
+
+### Justdial
+
+3.7/5 from 47 votes
+
+Clearly label this as Justdial if displayed.
+
+### Business Description
+
+"We are leading wholesaler and retailer of saree, choli, gowne, dress, men & kurta and blouse chaniya dupatta."
+
+Preserve the meaning of this information while rewriting it naturally for website presentation.
+
+---
+
+# 3. VERIFIED CUSTOMER REVIEWS
+
+Use these reviews exactly as provided.
+
+### Review 1
+
+ANJU WAGHELA
+
+"Good collection at reasonable price and lot of variety option."
+
+### Review 2
+
+jhanvi singh singh
+
+"Budget friendly store for regular wear clothing."
+
+Do NOT create fake reviews.
+
+Do NOT invent customer names.
+
+Do NOT add fabricated testimonials.
+
+---
+
+# 4. FACEBOOK
+
+The business has a Facebook profile.
+
+Create a Facebook/social media CTA.
+
+Use the supplied Facebook profile if available.
+
+Do not invent a Facebook URL if one has not been provided.
+
+If the exact URL is unavailable, make the button visually ready but do not create a fake URL.
+
+---
+
+# 5. DESIGN DIRECTION
+
+The website should feel like:
+
+**Premium Indian ethnic fashion + modern boutique + elegant Vadodara shopping destination**
+
+The design should immediately communicate:
+
+* Ethnic fashion
+* Variety
+* Elegance
+* Affordability
+* Traditional Indian style
+* Modern presentation
+* Family shopping
+* Wedding/festive shopping
+* Men's ethnic wear
+* Women's ethnic wear
+
+Avoid making it look like a generic e-commerce template.
+
+This is primarily a **premium business showcase website designed to attract customers to the physical store**.
+
+---
+
+# 6. COLOR & VISUAL STYLE
+
+Use a sophisticated Indian fashion palette.
+
+Suggested visual direction:
+
+* Deep maroon / burgundy
+* Warm cream
+* Off-white
+* Subtle gold accents
+* Dark charcoal typography
+
+Do not overuse gold.
+
+Use plenty of whitespace.
+
+Use elegant typography.
+
+Use subtle borders and premium cards.
+
+The overall appearance should resemble a high-end ethnic fashion boutique.
+
+---
+
+# 7. NAVBAR
+
+Create a sticky responsive navbar.
+
+Logo/text:
+
+**RAJWADA**
+**ETHNIC STUDIO**
+
+Navigation:
+
+* Home
+* Collections
+* About
+* Reviews
+* Gallery
+* Visit Us
+* Contact
+
+Right-side CTA:
+
+**Visit Store**
+
+On mobile:
+
+* Hamburger menu
+* Smooth opening animation
+* Clear CTA
+
+Navbar should become slightly more compact/elevated while scrolling.
+
+---
+
+# 8. HERO SECTION
+
+Create a visually stunning full-width hero section.
+
+Main headline:
+
+**Style That Celebrates Tradition**
+
+Supporting text:
+
+**Discover sarees, choli, gowns, dresses, men's kurtas, blouses, chaniya and dupattas at Rajwada Ethnic Studio, Alkapuri, Vadodara.**
+
+Primary CTA:
+
+**Explore Collections**
+
+Secondary CTA:
+
+**Visit Our Store**
+
+Phone CTA:
+
+**Call 099748 88295**
+
+Hero should use elegant Indian ethnic fashion imagery.
+
+Use high-quality fashion imagery appropriate for:
+
+* Sarees
+* Indian ethnic clothing
+* Wedding fashion
+* Festive fashion
+
+Avoid using obviously unrelated Western clothing imagery.
+
+Add subtle animations:
+
+* Fade-in headline
+* Slide-up content
+* Image reveal
+* Soft decorative motion
+
+Do not make animations excessive.
+
+---
+
+# 9. TRUST BAR
+
+Immediately below the hero, create a premium trust section.
+
+Display:
+
+### 3.5K+
+
+Google Reviews
+
+### 3.7/5
+
+Justdial Rating
+
+### Wide Variety
+
+Ethnic & Contemporary Clothing
+
+### Alkapuri
+
+Vadodara
+
+Make the statistics visually attractive.
+
+Do not display a Google star rating because none was provided.
+
+---
+
+# 10. ABOUT SECTION
+
+Heading:
+
+**Your Destination for Ethnic Style**
+
+Explain that Rajwada Ethnic Studio serves customers as a wholesaler and retailer with a wide range of ethnic and traditional clothing.
+
+Mention categories supported by the business information:
+
+* Sarees
+* Choli
+* Gowns
+* Dresses
+* Men's Kurtas
+* Blouses
+* Chaniya
+* Dupattas
+
+Do NOT invent:
+
+* Years in business
+* Founder
+* Owner
+* Number of stores
+* Brands
+* Awards
+* Certifications
+* Delivery service
+* Return policy
+* Payment methods
+
+unless explicitly provided.
+
+---
+
+# 11. COLLECTIONS SECTION
+
+Create a visually rich collection section.
+
+Heading:
+
+**Explore the Collection**
+
+Create attractive category cards for:
+
+### Sarees
+
+Elegant sarees for traditional, festive and special occasions.
+
+### Choli & Chaniya
+
+Traditional ethnic styles for celebrations and festive occasions.
+
+### Gowns
+
+Stylish Indian gowns for statement looks.
+
+### Dresses
+
+A variety of ethnic and contemporary dress styles.
+
+### Men's Kurtas
+
+Ethnic options for men's festive and traditional dressing.
+
+### Blouses
+
+Complete your saree and ethnic look with blouse options.
+
+### Dupattas
+
+Versatile ethnic styling pieces.
+
+Do not claim specific fabrics, designers, brands, prices or stock availability.
+
+Use visual imagery that matches each category.
+
+Each card should have:
+
+* Image
+* Category name
+* Short description
+* "Explore" or "Discover" interaction
+
+---
+
+# 12. VISUAL SHOPPING EXPERIENCE
+
+Create a premium editorial section.
+
+Headline:
+
+**More Variety. More Possibilities.**
+
+Supporting message:
+
+**From everyday ethnic wear to festive dressing, explore styles for different occasions, personalities and preferences.**
+
+Use a large fashion image alongside smaller supporting images.
+
+Create an immersive boutique-like layout.
+
+The purpose is to make the visitor feel:
+
+> "I want to visit this store and see the collection myself."
+
+---
+
+# 13. WHY RAJWADA SECTION
+
+Create a section:
+
+**Why Shop at Rajwada Ethnic Studio?**
+
+Use only claims supported by the supplied information.
+
+Cards:
+
+### Wide Variety
+
+A broad selection across sarees, ethnic wear, dresses and more.
+
+### Value-Focused Shopping
+
+Customer feedback highlights reasonable and budget-friendly options.
+
+### Men & Women
+
+Ethnic clothing options across men's and women's categories.
+
+### Wholesale & Retail
+
+The business serves both wholesale and retail customers.
+
+Do not invent guarantees or unsupported claims.
+
+---
+
+# 14. GALLERY
+
+Create a highly visual gallery.
+
+Use elegant Indian ethnic fashion imagery.
+
+Gallery layout:
+
+* Large featured image
+* Smaller supporting images
+* Masonry-inspired arrangement
+* Hover zoom
+* Soft overlay
+* Full-screen/lightbox interaction
+
+The gallery should feel like a fashion editorial.
+
+IMPORTANT:
+
+If external imagery is used and it is not actual Rajwada Ethnic Studio photography, do not present it as actual store inventory.
+
+Treat generic images as visual inspiration.
+
+Do not falsely imply that every displayed garment is available in the store.
+
+---
+
+# 15. CUSTOMER REVIEWS
+
+Create a premium testimonials section.
+
+Heading:
+
+**What Customers Say**
+
+Display the supplied reviews:
+
+ANJU WAGHELA
+
+"Good collection at reasonable price and lot of variety option."
+
+jhanvi singh singh
+
+"Budget friendly store for regular wear clothing."
+
+Make testimonial cards elegant.
+
+Also show:
+
+**3.5K+ Google Reviews**
+
+Do NOT fabricate additional testimonials.
+
+---
+
+# 16. SOCIAL MEDIA SECTION
+
+Create a visually attractive section:
+
+**Stay Connected With Rajwada**
+
+Text:
+
+**Discover the latest ethnic styles, store updates and fashion inspiration.**
+
+Create a Facebook CTA.
+
+If the actual Facebook URL is available in the provided project/business data, link to it.
+
+Otherwise, do not invent a URL.
+
+---
+
+# 17. VISIT STORE SECTION
+
+Create a strong conversion-focused section.
+
+Heading:
+
+**Come Discover Your Style**
+
+Text:
+
+**Visit Rajwada Ethnic Studio in Alkapuri, Vadodara and explore the collection in person.**
+
+Display:
+
+📍 Address
+
+31 Centre Point, bh Raymond Shop, SB - 30, RC Dutt Rd, opp. Bank Of, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007
+
+🕒 Hours
+
+Open · Closes 8:30 PM
+
+📞 Phone
+
+099748 88295
+
+Buttons:
+
+**Get Directions**
+
+**Call Store**
+
+The Directions button should open Google Maps/search for the exact business address.
+
+The Call button should use:
+
+tel:09974888295
+
+---
+
+# 18. CONTACT SECTION
+
+Create a clean contact section.
+
+Include:
+
+### Visit
+
+Alkapuri, Vadodara
+
+### Call
+
+099748 88295
+
+### Hours
+
+Open · Closes 8:30 PM
+
+Primary CTA:
+
+**Call Now**
+
+Secondary CTA:
+
+**Get Directions**
+
+Do not add a fake contact form that suggests messages are actually being received unless a backend is implemented.
+
+---
+
+# 19. MOBILE EXPERIENCE
+
+The website must be excellent on mobile.
+
+Create a fixed mobile bottom action bar containing:
+
+**Call**
+
+**Directions**
+
+**Facebook**
+
+Make the buttons large enough to tap comfortably.
+
+Ensure it does not cover important page content.
+
+---
+
+# 20. ANIMATIONS
+
+Use subtle premium animations:
+
+* Hero fade-in
+* Scroll reveal
+* Image scale on hover
+* Card hover elevation
+* Button hover transitions
+* Navbar transition
+* Smooth scrolling
+* Gallery hover effects
+
+Animations should feel elegant and premium.
+
+Avoid excessive animation.
+
+Respect:
+
+prefers-reduced-motion
+
+---
+
+# 21. SEO
+
+Add proper SEO metadata.
+
+Title:
+
+**Rajwada Ethnic Studio | Sarees & Ethnic Wear in Alkapuri, Vadodara**
+
+Meta description:
+
+**Explore sarees, choli, gowns, dresses, men's kurtas, blouses, chaniya and dupattas at Rajwada Ethnic Studio in Alkapuri, Vadodara.**
+
+Include relevant semantic headings.
+
+Use descriptive image alt text.
+
+Add LocalBusiness structured data only for facts explicitly provided.
+
+Do not invent ratings or unsupported business information in structured data.
+
+---
+
+# 22. ACCESSIBILITY
+
+Implement:
+
+* Semantic HTML
+* Proper heading hierarchy
+* Alt text
+* Keyboard navigation
+* Visible focus states
+* Accessible buttons
+* Accessible mobile menu
+* Good color contrast
+* ARIA labels where appropriate
+
+---
+
+# 23. RESPONSIVE DESIGN
+
+The website must work perfectly on:
+
+* Mobile
+* Tablet
+* Laptop
+* Desktop
+* Large desktop screens
+
+Test layouts around:
+
+320px
+375px
+768px
+1024px
+1440px+
+
+No horizontal scrolling.
+
+Images must remain properly cropped.
+
+Text must not overflow.
+
+Buttons must remain usable.
+
+---
+
+# 24. PERFORMANCE
+
+Optimize for performance.
+
+Use:
+
+* Lazy loading for below-the-fold images
+* Responsive image sizing
+* Minimal unnecessary JavaScript
+* Reusable components
+* Clean Tailwind classes
+* No huge unnecessary dependencies
+
+Avoid layout shifts.
+
+---
+
+# 25. CONTENT RULES — VERY IMPORTANT
+
+NEVER invent:
+
+* Product prices
+* Discounts
+* Offers
+* Brands
+* Fabric types
+* Product stock
+* Delivery availability
+* Return/exchange policy
+* Payment methods
+* Store history
+* Owner/founder information
+* Years of experience
+* Awards
+* Certifications
+* Number of employees
+* Additional branches
+* Fake customer reviews
+* Fake Google ratings
+* Fake social media URLs
+
+If information is unavailable, design the section without making unsupported claims.
+
+The website must remain truthful to the supplied business information.
+
+---
+
+# 26. FINAL QUALITY CHECK
+
+Before finishing, verify:
+
+* TypeScript has no errors
+* Application builds successfully
+* No broken imports
+* No missing components
+* No console errors
+* No broken images where avoidable
+* All navigation links work
+* Call button works
+* Directions button works
+* Facebook button does not point to a fake URL
+* Mobile menu works
+* Mobile bottom bar works
+* Smooth scrolling works
+* Responsive layout works
+* No placeholder text remains
+* No Lorem Ipsum remains
+* No TODO comments remain
+* SEO metadata is present
+* Accessibility basics are implemented
+
+If you encounter build or runtime errors while creating the application, FIX THEM before completing the generation.
+
+---
+
+# 27. FINAL DESIGN GOAL
+
+The finished website should feel like:
+
+**"A premium ethnic fashion studio in the heart of Alkapuri."**
+
+It should visually capture attention within the first few seconds and make visitors interested in discovering the collection.
+
+The website should create the feeling:
+
+**"There is a lot of variety here — I should visit the store."**
+
+Prioritize:
+
+**Visual appeal → Trust → Collection discovery → Store visit → Call/Direction**
+
+Do not make it look like a generic AI-generated template.
+
+Make it look like a professionally designed Indian ethnic fashion brand website.
+
+## FINAL INSTRUCTION
+
+**CREATE AND FINISH THE ENTIRE WEBSITE IN ONE SINGLE GENERATION.**
+
+Do not ask questions.
+
+Do not wait for approval.
+
+Do not generate a partial website.
+
+Do not stop after scaffolding.
+
+Build the complete polished website now.
